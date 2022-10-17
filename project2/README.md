@@ -1,4 +1,4 @@
-## Project 2
+# Project 2
 ## TweetAPI:
 Before run this python file, make sure you have the latest version of python. Also, you need to have Twitter develop account and relavent key to access twitter API.
 I store my key locally and load it when I run this program. If you want to use your own config, please name your file "config.py" and use the following format.
@@ -10,22 +10,22 @@ consumer_secret = " "
 To run this program, use terminal to run this line
 python TweetAPI.py
 
-function:
-update_own_status:  
+# function:
+**update_own_status:  **
 ![image](picture/update-status.png)
 ![image](picture/input-update-status.png)
 
-retweet:  
+**retweet:  **
 ![image](picture/retweet.png)
 
-get status:  
+**get status:  **
 ![image](picture/get-status.png)
 
-my timeline:  
+**my timeline:  **
 ![image](picture/1.png)
 ![image](picture/2.png)
 
-user timeline:  
+**user timeline:  **
 ![image](picture/3.png)
 ![image](picture/4.png)
 ## Google nlp
