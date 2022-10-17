@@ -31,10 +31,13 @@ user timeline:
 ## Google nlp
 
 Import a sentiment dataset, training and predict our target context (1 represents positive and 0 represents negative).   
-![image](picture/sentiment1.png)
-![image](picture/sentiment2.png)
-![image](picture/sentiment3.png)
-![image](picture/sentiment4.png)
+![image](picture/sentiment1.png)  
+
+![image](picture/sentiment2.png)  
+
+![image](picture/sentiment3.png)  
+
+![image](picture/sentiment4.png)  
 
 
 
