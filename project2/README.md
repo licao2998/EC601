@@ -10,22 +10,22 @@ consumer_secret = " "
 To run this program, use terminal to run this line
 python TweetAPI.py
 
-# function:
-**update_own_status:  **
+### function:
+update_own_status:  
 ![image](picture/update-status.png)
 ![image](picture/input-update-status.png)
 
-**retweet:  **
+retweet:  
 ![image](picture/retweet.png)
 
-**get status:  **
+get status:  
 ![image](picture/get-status.png)
 
-**my timeline:  **
+my timeline:  
 ![image](picture/1.png)
 ![image](picture/2.png)
 
-**user timeline:  **
+user timeline:  
 ![image](picture/3.png)
 ![image](picture/4.png)
 ## Google nlp
