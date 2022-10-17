@@ -11,26 +11,26 @@ To run this program, use terminal to run this line
 python TweetAPI.py
 
 function:
-update_own_status:
+update_own_status:  
 ![image](picture/update-status.png)
 ![image](picture/input-update-status.png)
 
-retweet:
+retweet:  
 ![image](picture/retweet.png)
 
-get status:
+get status:  
 ![image](picture/get-status.png)
 
-my timeline:
+my timeline:  
 ![image](picture/1.png)
 ![image](picture/2.png)
 
-user timeline:
+user timeline:  
 ![image](picture/3.png)
 ![image](picture/4.png)
 ## Google nlp
 
-Import a sentiment dataset, training and predict our target context (1 represents positive and 0 represents negative). 
+Import a sentiment dataset, training and predict our target context (1 represents positive and 0 represents negative).   
 ![image](picture/sentiment1.png)
 ![image](picture/sentiment2.png)
 ![image](picture/sentiment3.png)
